@@ -1,0 +1,13 @@
+{
+  "Cache-Control": "max-age=43200, public, immutable, stale-while-revalidate=300",
+  "Connection": "keep-alive",
+  "Content-Encoding": "gzip",
+  "Content-Type": "application/xml",
+  "Date": "Fri, 14 Oct 2022 18:56:50 GMT",
+  "ETag": "\"9ed598-5eaf68e63bbef-gzip\"",
+  "Last-Modified": "Fri, 14 Oct 2022 03:52:35 GMT",
+  "Server": "nginx/1.18.0",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+  "Transfer-Encoding": "chunked",
+  "Vary": "Accept-Encoding"
+}
